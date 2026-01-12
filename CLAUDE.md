@@ -277,6 +277,44 @@ For EVERY learning conversation, Claude must complete BOTH steps:
 - When creating practice tests
 - When assessing readiness for the exam
 
+### STEP 3: Automatically Commit Changes
+
+**After completing STEP 1 and STEP 2**, AUTOMATICALLY create a git commit:
+
+**Command**: Use git to stage and commit all changes from the session
+
+**Commit Format**:
+- **Title**: Brief summary of main topic(s) studied (e.g., "Study Session: Roth IRA vs Traditional IRA")
+- **Message Body**: Include:
+  - Date of session
+  - Main topics covered (bullet points)
+  - Key concepts mastered or knowledge gaps identified
+  - Brief note on progress made
+
+**Example Commit**:
+```
+Study Session: Retirement Account Contribution Limits and Tax Treatment
+
+Date: 2026-01-12
+Topics covered:
+- Roth IRA vs Traditional IRA differences
+- 2025 contribution limits ($7,000/$8,000)
+- Tax treatment and withdrawal rules
+- Income phase-out ranges for Roth IRA
+
+Progress: Mastered basic IRA concepts (Medium-High confidence)
+Knowledge gaps: Need to review early withdrawal penalties and exceptions
+```
+
+**Purpose**: Maintain complete git history of learning journey, making it easy to track progress over time and review what was studied on any given date.
+
+**CRITICAL RULE**:
+- ✅ DO commit after EVERY study session (no exceptions)
+- ✅ DO make the commit message meaningful and descriptive
+- ✅ DO include the date and main topics in the commit
+- ❌ DO NOT skip commits - they're part of your learning documentation
+- ❌ DO NOT use generic messages like "update files" or "study session"
+
 ---
 
 ## ⚠️ CRITICAL RULE: NO GUESSING ON EXAM QUESTIONS ⚠️
