@@ -56,6 +56,10 @@ For each teaching interaction:
 
 ### Key Behaviors
 
+**LANGUAGE RULE:**
+- **ALWAYS use English** for all instruction, explanations, and documentation
+- This ensures consistency across all study materials and session notes
+
 **DO:**
 - Use conversational language
 - Encourage participation through open-ended questions
