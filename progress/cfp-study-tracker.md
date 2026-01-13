@@ -1,6 +1,6 @@
 # CFP Study Progress Tracker
 
-**Last Updated**: January 11, 2026 (Session 14 Part 4 Complete - 31.4% Complete, F.45 ✓ MASTERED with depth clarifications!)
+**Last Updated**: January 12, 2026 (Session 15 - F.46 Started ~5% complete)
 
 ## Quick Stats
 - **Overall Progress**: 31.4% complete (22 of 70 topics mastered)
@@ -8,9 +8,9 @@
 - **Strongest Domains**:
   - D. Investment Planning (9 topics - 100% COMPLETE! ✓)
   - B. General Principles of Financial Planning (10 topics - 100% COMPLETE! ✓)
-- **Current Focus**: F. Retirement Savings and Income Planning (18% exam weight - HIGHEST) - 20% complete (2 of 10 topics)
+- **Current Focus**: F. Retirement Savings and Income Planning (18% exam weight - HIGHEST) - 20% complete (2 of 10 topics), F.46 in progress
 - **Weakest Domain**: N/A (other domains not started)
-- **Next Priority**: Continue Domain F - Retirement (F.46 Eldercare and Special Needs Planning next)
+- **Next Priority**: Complete F.46 Eldercare and Special Needs Planning (~5% done)
 
 ---
 
@@ -886,7 +886,26 @@
 7. **Professional Conduct and Regulation (8%)**
 8. **Psychology of Financial Planning (7%)**
 
-### Current Week's Focus (Week of January 8, 2026)
+### Current Week's Focus (Week of January 12, 2026)
+- ⏳ **IN PROGRESS:** F.46 Eldercare and Special Needs Planning ← Started January 12 (Session 15)
+  - **Current Progress: ~5% complete** (introduction only)
+  - **Completed Topics:**
+    - ✓ Introduction: LTC definition, Medicare gap, cost problem
+  - **Remaining Topics:**
+    - Long-Term Care Insurance (policies, benefits, costs, when to buy)
+    - LTC Insurance features (daily benefit, benefit period, elimination period, inflation)
+    - Partnership Programs (asset protection)
+    - Self-funding vs insurance decision framework
+    - Hybrid life/LTC products
+    - Medicaid planning (spend-down, lookback, exempt assets)
+    - Special needs trusts (SNT) for disabled dependents
+    - ABLE accounts (tax-advantaged savings for disabled)
+    - Comprehension checks and practice problems
+    - Final mastery assessment
+  - **Estimated time to complete:** ~60-75 minutes (1 session)
+  - **Session Note:** Brief introduction session - student requested to stop after baseline concepts covered
+
+### Previous Week's Focus (Week of January 8, 2026)
 - ✅ **COMPLETED:** F.44 Retirement Needs Analysis ← Completed January 7 (Session 13)!
   - Completed: Replacement ratio concept, 4% rule, retirement risks (longevity, sequence, healthcare), retirement spending phases
   - Performance: Perfect 100% - Zero calculation errors, excellent CFP risk assessment, outstanding conceptual integration with B.11 and B.12
@@ -960,6 +979,20 @@
 ## Notes
 
 ### Session History
+
+**January 12, 2026 - Session 15 (F.46 Started - IN PROGRESS ~5%):**
+- **Duration:** ~5 minutes
+- **Topic Started:** F.46 Eldercare and Special Needs Planning (IN PROGRESS - introduction only ~5%)
+- **Status:** PARTIAL - Only introduction covered, student requested to stop after baseline concepts
+- **Baseline Knowledge:** No prior knowledge of eldercare planning (as expected)
+- **Topics Introduced:**
+  - Long-term care (LTC) definition and ADLs/IADLs
+  - Connection to F.45: Medicare doesn't cover long-term custodial care
+  - LTC costs ($100K-$120K/year for nursing home, 2-3 years average duration)
+  - Four CFP planning solution categories (mentioned, not explained)
+- **Session Note:** Very brief session - student reviewed progress, received F.46 introduction, requested to stop before first comprehension check. Normal pacing - student may have wanted brief check-in before committing to full session. F.46 ready to complete in next session (~60-75 minutes estimated).
+- **Progress:** 30% (no change - F.46 not yet complete)
+- **Detailed Notes:** `/sessions/2026-01-12/session-notes.md`
 
 **January 8, 2026 - Session 14 Parts 1 & 2 (F.45 Social Security - IN PROGRESS 60%):**
 - **Duration:** ~55 minutes total (30 min Part 1 + 25 min Part 2)
