@@ -1,6 +1,6 @@
 # CFP Study Progress Tracker
 
-**Last Updated**: January 12, 2026 (Session 15 - F.46 Started ~5% complete)
+**Last Updated**: January 14, 2026 (Session 16 - F.46 ~90% complete)
 
 ## Quick Stats
 - **Overall Progress**: 31.4% complete (22 of 70 topics mastered)
@@ -8,9 +8,9 @@
 - **Strongest Domains**:
   - D. Investment Planning (9 topics - 100% COMPLETE! ✓)
   - B. General Principles of Financial Planning (10 topics - 100% COMPLETE! ✓)
-- **Current Focus**: F. Retirement Savings and Income Planning (18% exam weight - HIGHEST) - 20% complete (2 of 10 topics), F.46 in progress
+- **Current Focus**: F. Retirement Savings and Income Planning (18% exam weight - HIGHEST) - 20% complete (2 of 10 topics), F.46 ~90% done
 - **Weakest Domain**: N/A (other domains not started)
-- **Next Priority**: Complete F.46 Eldercare and Special Needs Planning (~5% done)
+- **Next Priority**: Complete F.46 final assessment (10% remaining), then F.47 Types of Retirement Plans
 
 ---
 
@@ -690,6 +690,77 @@
   - Perfect calculations throughout all parts (zero mathematical errors)
   - Outstanding CFP survivor benefit strategy: "Delays to 70, because his spouse can get more"
 - **Session Note:** Excellent completion of F.45 across 4 session parts. Perfect Social Security mastery with outstanding CFP professional judgment on survivor protection strategy. Medicare coverage solidly understood with critical Part C vs Medigap confusion resolved. The guaranteed issue timing concept adds important strategic planning depth. Student now understands when to recommend Original Medicare + Medigap vs Medicare Advantage (Part C) based on client flexibility needs and timing of decision.
+
+**F.46 - Eldercare and Special Needs Planning** ⚠️ IN PROGRESS (~90% complete)
+- **Date Started:** January 12, 2026 (Session 15 - Introduction)
+- **Date Continued:** January 14, 2026 (Session 16 - Main content)
+- **Status:** NEAR COMPLETE - Final comprehension check pending (2 questions)
+- **Estimated Completion:** Next session (5-10 minutes)
+- **Confidence Level:** Medium-High to High (varies by subtopic)
+  - High: LTC insurance timing, Medicaid 5-year lookback, policy features
+  - Medium-High: Self-funding decision framework
+  - Medium: SNT and ABLE accounts (introduced but not independently tested)
+- **Topics Covered:**
+  - **Long-Term Care (LTC) Definition and Costs:**
+    - ADLs (Activities of Daily Living): bathing, dressing, eating, toileting, transferring, continence
+    - IADLs (Instrumental ADLs): cooking, cleaning, medication management, shopping, finances
+    - Medicare gap: Medicare pays $0 for custodial care (only skilled nursing <100 days)
+    - LTC costs: Nursing home $100K-$120K/year, assisted living $50K-$70K/year, home health $30K-$60K/year
+    - Average duration: 2-3 years (some need 5-10+ years)
+  - **Long-Term Care Insurance (Policy Features):**
+    - Daily benefit amount: How much insurance pays per day ($100-$300+/day)
+    - Benefit period: How long benefits last (2-5 years, or lifetime)
+    - Elimination period: Waiting period before insurance starts (30-180 days) - insured pays during this time
+    - Inflation protection: Critical feature (3% or 5% compound) to maintain purchasing power
+    - Insurance pays LOWER of: actual cost OR daily benefit amount
+  - **When to Buy LTC Insurance:**
+    - Optimal age: 50-65 (especially 55-60 "sweet spot")
+    - Too young (<50): Pay premiums too long
+    - Too late (>70): Premiums very expensive, may have health issues preventing qualification
+    - Requires medical underwriting - can't qualify with major health conditions
+    - Premiums double/triple if wait 10-15 years
+  - **Self-Funding vs LTC Insurance Decision:**
+    - Self-fund: Very wealthy (>$3-5M) or very poor (<$100K-$200K)
+    - LTC insurance: Middle-class clients ($500K-$1.5M "sweet spot")
+    - Balance: Have enough to lose, not enough to self-fund comfortably
+  - **Medicaid Planning:**
+    - Asset limits: <$2,000-$2,500 single, <$3,000-$4,000 married (countable assets)
+    - Exempt assets: Primary home (up to ~$1M), one vehicle, personal belongings, prepaid burial
+    - Spend-down strategy: Legal (pay debts, home improvements, buy exempt assets) vs illegal (gifting)
+    - **5-year lookback period:** Medicaid checks transfers within 5 years before application
+    - Penalty period = Amount transferred ÷ Average monthly LTC cost → months ineligible
+    - Spousal protection: Community spouse can keep ~$150K-$155K (CSRA)
+  - **Special Needs Trusts (SNT):**
+    - Problem: Direct inheritance causes disabled person to lose SSI/Medicaid (>$2,000 asset limit)
+    - Solution: Trust holds money, trustee manages, doesn't count toward asset limit
+    - Pays for supplemental needs: education, recreation, technology, transportation (NOT food/shelter directly)
+  - **ABLE Accounts:**
+    - Tax-advantaged savings for people with disability onset before age 26
+    - Like 529 but for disability expenses
+    - Contribution limit: $18K/year (2024)
+    - First $100K doesn't count toward SSI asset limit
+    - More flexible than SNT, disabled person has control
+    - CFP strategy: Use BOTH - ABLE for annual gifts, SNT for large amounts
+- **Knowledge Gaps Identified and Resolved:**
+  - ✓ What LTC covers: Initially thought LTC was about "eating better, dressing better" as quality upgrades → Corrected to understand it's necessity when CAN'T do ADLs (disabled), not optional luxury
+  - ✓ LTC insurance payment calculation: Initially tried to calculate inflation on nursing home cost → Corrected to compare benefit vs cost, insurance pays lower of the two
+- **Session Performance:**
+  - Comprehension Check 1 (LTC policy features): Good understanding after correction on payment logic
+  - Comprehension Check 2 (When to buy): ✓ PERFECT - Identified all three reasons (lower premiums, high cost at 70, health risk/insurability)
+  - Comprehension Check 3 (5-year lookback): ✓ EXCELLENT - Correctly explained penalty period formula and consequences
+- **Remaining Work:**
+  - Final comprehensive scenario (Chen Wei case): 2 questions pending
+    - Q1: Should Chen Wei (60, $900K savings, healthy) buy LTC insurance? Why?
+    - Q2: How to leave $200K to disabled daughter (has SSI/Medicaid) - direct, SNT, or ABLE?
+  - Brief discussion/feedback
+  - Mark as fully mastered
+- **Session Notes:**
+  - Session 15 (Jan 12): Introduction only (~5% complete), student requested to stop
+  - Session 16 (Jan 14): Excellent progress, covered all main content (~90% complete)
+  - Strong comprehension throughout, especially practical CFP decision-making
+  - Outstanding understanding of 5-year lookback concept and penalty calculations
+  - Ready to complete final assessment next session
+
 - **Key Points Understood:**
   - **Replacement Ratio Concept:**
     - Retirement Income ÷ Pre-Retirement Income = 70-85% typically
