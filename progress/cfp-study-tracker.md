@@ -950,26 +950,32 @@
 7. **Professional Conduct and Regulation (8%)**
 8. **Psychology of Financial Planning (7%)**
 
-### Current Week's Focus (Week of January 12, 2026)
-- ⏳ **IN PROGRESS:** F.46 Eldercare and Special Needs Planning ← Started January 12 (Session 15)
-  - **Current Progress: ~5% complete** (introduction only)
+### Current Week's Focus (Week of January 16, 2026)
+- ✅ **COMPLETED:** F.46 Eldercare and Special Needs Planning ← Completed January 16 (Session 17)!
+  - Completed: LTC insurance features, optimal buying age, self-funding vs insurance, Medicaid planning (5-year lookback), Special Needs Trusts, ABLE Accounts
+  - Performance: Perfect final assessment - Chen Wei scenario answered correctly (LTC insurance timing + SNT for disabled daughter)
+  - Final Assessment: 2/2 = 100%
+  - Key Achievement: Excellent understanding of why Special Needs Trusts are necessary (SSI/Medicaid asset limit)
+- ⏳ **IN PROGRESS:** F.47 Types of Retirement Plans ← Started January 16 (Session 17)
+  - **Current Progress: ~60% complete**
   - **Completed Topics:**
-    - ✓ Introduction: LTC definition, Medicare gap, cost problem
+    - ✓ Defined Benefit vs Defined Contribution
+    - ✓ Qualified vs Non-Qualified Plans
+    - ✓ 401(k) - Traditional vs Roth, employer matching, contribution limits
+    - ✓ 403(b) - Nonprofit/government employees, immediate vesting
+    - ✓ 457(b) - Government employees, no 10% penalty, separate limit
+    - ✓ IRAs - Traditional vs Roth, contribution limits, income limits, RMDs
+    - ✓ SEP IRA & SIMPLE IRA - Small business plans
   - **Remaining Topics:**
-    - Long-Term Care Insurance (policies, benefits, costs, when to buy)
-    - LTC Insurance features (daily benefit, benefit period, elimination period, inflation)
-    - Partnership Programs (asset protection)
-    - Self-funding vs insurance decision framework
-    - Hybrid life/LTC products
-    - Medicaid planning (spend-down, lookback, exempt assets)
-    - Special needs trusts (SNT) for disabled dependents
-    - ABLE accounts (tax-advantaged savings for disabled)
-    - Comprehension checks and practice problems
+    - Vesting rules (cliff vs graded, immediate vesting exceptions)
+    - Rollover rules (401k to IRA, indirect rollover 60-day rule)
+    - After-tax contributions (Mega Backdoor Roth for 401k)
+    - Comprehension Check 6 - Multiple plan coordination
     - Final mastery assessment
-  - **Estimated time to complete:** ~60-75 minutes (1 session)
-  - **Session Note:** Brief introduction session - student requested to stop after baseline concepts covered
+  - **Estimated time to complete:** ~30-40 minutes
+  - **Performance:** Excellent on most calculations, needs clarification on 403(b) age 55+ catch-up ($7,500 special rule)
 
-### Previous Week's Focus (Week of January 8, 2026)
+### Previous Week's Focus (Week of January 12, 2026)
 - ✅ **COMPLETED:** F.44 Retirement Needs Analysis ← Completed January 7 (Session 13)!
   - Completed: Replacement ratio concept, 4% rule, retirement risks (longevity, sequence, healthcare), retirement spending phases
   - Performance: Perfect 100% - Zero calculation errors, excellent CFP risk assessment, outstanding conceptual integration with B.11 and B.12
