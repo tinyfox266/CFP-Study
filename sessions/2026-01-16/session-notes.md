@@ -241,4 +241,150 @@ F.46 is now fully mastered. Ready to proceed to F.47 Types of Retirement Plans.
 
 ---
 
-**Session 17 Documentation Complete**
+---
+
+## Session 17 CONTINUATION (Session 18)
+
+**Session Overview:**
+- **Time**: Later in day (January 16, 2026)
+- **Duration**: ~30 minutes
+- **Main Activity**: Completed F.47 Comprehension Check 6 + Sarah Johnson Practice Problem
+- **Status**: F.47 now ~75% complete
+
+---
+
+### F.47 Comprehension Check 6 - COMPLETED
+
+**Scenario:** Li Ming, age 55, university employee (403b), salary $150,000, side consulting $30,000
+
+**Question:** Maximum total contribution across all retirement plans?
+
+**Student's Answer:**
+1. 403(b): $30,500 ✓ PERFECT (remembered age 55+ catch-up = $7,500)
+2. SEP IRA: $30,000 × 25% = $7,500 ✓ CORRECT
+3. Roth IRA: "不行，要低于16500" - Meant $165,000 income limit ✓ CORRECT CONCEPT
+   - Total income = $180,000 > $165,000 → Cannot contribute to Roth IRA
+
+**Total Maximum:** $30,500 + $7,500 + $0 = **$38,000**
+
+**Assessment:** ✓ **EXCELLENT**
+
+**Follow-up Question:** Why can Li Ming contribute to BOTH 403(b) AND SEP IRA?
+
+**Student's Answer:** "可以同时申请。因为一个是雇主计划，一个是纯个人计划。"
+(Can apply simultaneously. One is employer plan, one is purely individual plan.)
+
+**Assessment:** ✓ **GOOD - Correct concept**
+
+**Refined Understanding:** Two separate income sources:
+- W-2 income from employer → 403(b)
+- Self-employment income → SEP IRA
+- SEP IRA ONLY available if you have self-employment income
+
+**Verification Test:** Zhang Wei works at Google (401k) + Uber driver (self-employed)
+**Student's Answer:** "可以，因为这两份收入的来源不同。分别符合两个计划的条件。"
+(Yes, because income sources are different. Each meets the requirements separately.)
+
+**Assessment:** ✓ **PERFECT!** Fully understood the concept.
+
+**Mastery Level:** High - Multiple plan coordination
+
+---
+
+### Sarah Johnson Practice Problem - COMPLETED
+
+**Scenario:** Sarah, age 54, Microsoft employee ($160k salary), photography business ($40k self-employment), 401k with 50% match up to 6%, currently contributes 5%
+
+**Question 1:** Current contributions and employer match? Maximizing match?
+**Student Answer:**
+- Sarah: $160,000 × 5% = $8,000 ✓
+- Employer: $8,000 × 50% = $4,000 ✓
+- Maximizing? "没有" (No) ✓
+**Assessment:** ✓ PERFECT - Identified she's leaving free money on table
+
+**Question 2:** Maximum 401(k) contribution?
+**Student Answer:** $30,500 ✓ PERFECT ($23,000 + $7,500 age 50+)
+
+**Question 3:** Can contribute to Roth IRA? Traditional IRA?
+**Initial Student Answer:** "可以部分投入Roth IRA, 低于限额 165000" (Can partially contribute to Roth IRA, below $165,000 limit)
+**Corrected Answer:** "不行。总收入是200000，超过了165000。" (No. Total income is $200,000, exceeds $165,000.) ✓ EXCELLENT SELF-CORRECTION
+
+**Teaching Moment:** Traditional IRA deductibility
+- Can contribute to Traditional IRA ($8,000), BUT...
+- No tax deduction if covered by workplace plan AND income > $87,000
+- Sarah's income ($200,000) > $87,000 → Non-deductible Traditional IRA (no tax benefit)
+
+**Follow-up:** Why might Sarah NOT want to contribute to Traditional IRA?
+**Student Answer:** "因为MAGI超过了限额，投入到Traditional IRA并不会减税。"
+(Because MAGI exceeds limit, contributing to Traditional IRA will not reduce taxes.)
+**Assessment:** ✓ EXACTLY RIGHT - Perfect understanding!
+
+**Question 4:** Maximum SEP IRA contribution?
+**Student Answer:** $40,000 × 0.25 = $10,000 ✓ PERFECT
+
+**Question 5:** Maximum total across all plans?
+**Student Answer:** $30,500 + $40,000 × 0.25 + $8,000 = $48,500
+**Refined Answer:** $30,500 + $10,000 = **$40,500** (excluding non-deductible Traditional IRA)
+
+**Assessment:** ✓ CORRECT (understood why non-deductible Traditional IRA has no tax benefit)
+
+---
+
+### Practice Problem Performance Summary
+
+**Overall:** ✓ EXCELLENT
+
+**Strengths Demonstrated:**
+- Quick self-correction on income calculations
+- Understanding of employer match importance ("free money")
+- Solid grasp of contribution limits across multiple plan types
+- Age 50+ catch-up calculations mastered
+- SEP IRA 25% rule mastered
+- **KEY INSIGHT:** Recognized non-deductible Traditional IRA has no tax benefit when income too high
+
+**Weaknesses/Learning Moments:**
+- Initially forgot to add self-employment income to total (but self-corrected immediately)
+- Learned about Traditional IRA deduction phase-out rules (new concept)
+
+**Confidence Level:** High
+
+---
+
+## F.47 Updated Mastery Assessment
+
+**Progress:** ~75% complete (was 60%, now 75%)
+
+**Topics Mastered:**
+1. ✓ Defined Benefit vs Defined Contribution
+2. ✓ Qualified vs Non-Qualified Plans
+3. ✓ 401(k) - contribution limits, employer matching, catch-up contributions
+4. ✓ 403(b) - special age 55+ catch-up ($7,500)
+5. ✓ 457 Plans - no early withdrawal penalty, separate limits
+6. ✓ Traditional IRA - contribution limits, deduction phase-outs, RMDs
+7. ✓ Roth IRA - income limits, tax-free growth, no RMDs
+8. ✓ SEP IRA - 25% rule, self-employment requirement
+9. ✓ SIMPLE IRA - basics
+10. ✓ **Multiple plan coordination** - different income sources allow multiple plans
+
+**Knowledge Gaps:** NONE identified in this session
+
+**Comprehensive Check Performance:**
+- Comprehension Check 6: ✓ EXCELLENT
+- Sarah Johnson Practice Problem: ✓ EXCELLENT (5/5 questions correct or self-corrected)
+
+**Overall Confidence Level:** High
+
+---
+
+## Remaining F.47 Content (~25%)
+
+**Topics NOT yet covered:**
+1. Vesting rules (cliff vs graded vesting, immediate vesting exceptions)
+2. Rollover rules (401k → IRA, direct vs indirect, 60-day rule)
+3. Mega Backdoor Roth (after-tax 401k contributions)
+
+**Next Session:** Continue with remaining F.47 content, then move to F.48
+
+---
+
+**Session 18 Documentation Complete**

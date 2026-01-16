@@ -1,6 +1,6 @@
 # CFP Study Progress Tracker
 
-**Last Updated**: January 16, 2026 (Session 17 - F.46 COMPLETED ✓)
+**Last Updated**: January 16, 2026 (Session 18 - F.47 in progress, ~75% complete)
 
 ## Quick Stats
 - **Overall Progress**: 31.4% complete (22 of 70 topics mastered)
@@ -608,7 +608,7 @@
 ### E. Tax Planning (0/8)
 *No topics mastered yet*
 
-### F. Retirement Savings and Income Planning (2/10)
+### F. Retirement Savings and Income Planning (3/10)
 
 **F.44 - Retirement Needs Analysis**
 - **Date Mastered:** January 7, 2026
@@ -694,6 +694,49 @@
 **F.46 - Eldercare and Special Needs Planning** ✅ COMPLETE!
 - **Date Mastered:** January 16, 2026 (Session 17)
 - **Confidence Level:** High
+
+**F.47 - Types of Retirement Plans** 🔄 IN PROGRESS (~75% complete)
+- **Sessions:** January 16, 2026 (Session 17 - Part 1, ~60%) + Session 18 (Comprehension Check 6 + Practice Problem, now ~75%)
+- **Confidence Level:** High (for covered content)
+- **Topics Mastered So Far:**
+  - ✓ Defined Benefit vs Defined Contribution Plans
+  - ✓ Qualified vs Non-Qualified Plans
+  - ✓ 401(k) - contribution limits ($23K base, $30.5K age 50+), employer matching, Roth vs Traditional
+  - ✓ 403(b) - nonprofit/government plans, age 55+ special catch-up ($7,500 extra)
+  - ✓ 457 Plans - no 10% early withdrawal penalty, separate contribution limits
+  - ✓ Traditional IRA - contribution limits ($7K, $8K age 50+), deduction phase-outs (>$87K if covered by workplace plan), RMDs at 72
+  - ✓ Roth IRA - income limits (single >$165K ineligible), tax-free growth, no RMDs
+  - ✓ SEP IRA - self-employment income required, 25% of compensation rule (max $69K)
+  - ✓ SIMPLE IRA - small business (<100 employees), employee + employer contributions
+  - ✓ **Multiple plan coordination** - different income sources (W-2 vs self-employment) allow concurrent contributions to multiple plans
+- **Comprehension Checks Completed:**
+  - Check 1 (401k employer match calculation): ✓ PERFECT
+  - Check 2 (457b limits with 401a): ✓ Corrected (learned 401a typically employer-funded only)
+  - Check 3 (Roth IRA eligibility): ✓ CORRECT
+  - Check 4 (Optimal savings strategy): ✓ PERFECT
+  - Check 5 (SEP IRA 25% limit): ✓ Corrected (learned $69K is ceiling, not guaranteed)
+  - Check 6 (Multiple plans - Li Ming scenario): ✓ EXCELLENT
+- **Practice Problem (Sarah Johnson):** ✓ EXCELLENT (5/5 questions)
+  - Perfect employer match identification (leaving free money on table)
+  - Perfect age 50+ catch-up calculation
+  - Self-corrected total income for Roth IRA eligibility
+  - **New concept mastered:** Traditional IRA deduction phase-out (income >$87K when covered by workplace plan = non-deductible contribution)
+  - Perfect understanding: "Non-deductible Traditional IRA has no tax benefit"
+- **Knowledge Gaps Identified:**
+  - Session 17: 403(b) catch-up initially calculated as $23K (missed special $7,500 rule)
+  - Session 18: Initially forgot to add self-employment income to total → Self-corrected immediately
+  - Session 18: Learned Traditional IRA deduction phase-out rules (new concept, now mastered)
+- **Strengths Demonstrated:**
+  - Perfect mathematical accuracy on contribution limits and calculations
+  - Excellent understanding of employer matching importance ("free money")
+  - Strong grasp of income limits for various plans
+  - Quick self-correction ability
+  - Outstanding reasoning: "Different income sources allow multiple plan contributions"
+- **Remaining Content (~25%):**
+  - Vesting rules (cliff vs graded vesting, immediate vesting exceptions)
+  - Rollover rules (401k → IRA, direct vs indirect, 60-day rule)
+  - Mega Backdoor Roth (after-tax 401k contributions strategy)
+- **Next Session:** Complete F.47 remaining content, then proceed to F.48
 - **Key Points Understood:**
   - **Long-Term Care (LTC) Definition and Costs:**
     - ADLs (Activities of Daily Living): bathing, dressing, eating, toileting, transferring, continence
