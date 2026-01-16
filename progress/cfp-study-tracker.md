@@ -1,6 +1,6 @@
 # CFP Study Progress Tracker
 
-**Last Updated**: January 14, 2026 (Session 16 - F.46 ~90% complete)
+**Last Updated**: January 16, 2026 (Session 17 - F.46 COMPLETED ✓)
 
 ## Quick Stats
 - **Overall Progress**: 31.4% complete (22 of 70 topics mastered)
@@ -8,9 +8,9 @@
 - **Strongest Domains**:
   - D. Investment Planning (9 topics - 100% COMPLETE! ✓)
   - B. General Principles of Financial Planning (10 topics - 100% COMPLETE! ✓)
-- **Current Focus**: F. Retirement Savings and Income Planning (18% exam weight - HIGHEST) - 20% complete (2 of 10 topics), F.46 ~90% done
+- **Current Focus**: F. Retirement Savings and Income Planning (18% exam weight - HIGHEST) - 30% complete (3 of 10 topics)
 - **Weakest Domain**: N/A (other domains not started)
-- **Next Priority**: Complete F.46 final assessment (10% remaining), then F.47 Types of Retirement Plans
+- **Next Priority**: F.47 Types of Retirement Plans
 
 ---
 
@@ -23,10 +23,10 @@
 | C. Risk Management and Insurance Planning (11%) | 10 | 0 | 0% | Not Started |
 | D. Investment Planning (17%) | 9 | 9 | 100% | ✓ COMPLETE! |
 | E. Tax Planning (14%) | 8 | 0 | 0% | Not Started |
-| F. Retirement Savings and Income Planning (18%) | 10 | 2 | 20% | In Progress |
+| F. Retirement Savings and Income Planning (18%) | 10 | 3 | 30% | In Progress |
 | G. Estate Planning (10%) | 11 | 0 | 0% | Not Started |
 | H. Psychology of Financial Planning (7%) | 6 | 0 | 0% | Not Started |
-| **TOTAL** | **70** | **21** | **30%** | **In Progress** |
+| **TOTAL** | **70** | **22** | **31%** | **In Progress** |
 
 ---
 
@@ -691,16 +691,10 @@
   - Outstanding CFP survivor benefit strategy: "Delays to 70, because his spouse can get more"
 - **Session Note:** Excellent completion of F.45 across 4 session parts. Perfect Social Security mastery with outstanding CFP professional judgment on survivor protection strategy. Medicare coverage solidly understood with critical Part C vs Medigap confusion resolved. The guaranteed issue timing concept adds important strategic planning depth. Student now understands when to recommend Original Medicare + Medigap vs Medicare Advantage (Part C) based on client flexibility needs and timing of decision.
 
-**F.46 - Eldercare and Special Needs Planning** ⚠️ IN PROGRESS (~90% complete)
-- **Date Started:** January 12, 2026 (Session 15 - Introduction)
-- **Date Continued:** January 14, 2026 (Session 16 - Main content)
-- **Status:** NEAR COMPLETE - Final comprehension check pending (2 questions)
-- **Estimated Completion:** Next session (5-10 minutes)
-- **Confidence Level:** Medium-High to High (varies by subtopic)
-  - High: LTC insurance timing, Medicaid 5-year lookback, policy features
-  - Medium-High: Self-funding decision framework
-  - Medium: SNT and ABLE accounts (introduced but not independently tested)
-- **Topics Covered:**
+**F.46 - Eldercare and Special Needs Planning** ✅ COMPLETE!
+- **Date Mastered:** January 16, 2026 (Session 17)
+- **Confidence Level:** High
+- **Key Points Understood:**
   - **Long-Term Care (LTC) Definition and Costs:**
     - ADLs (Activities of Daily Living): bathing, dressing, eating, toileting, transferring, continence
     - IADLs (Instrumental ADLs): cooking, cleaning, medication management, shopping, finances
@@ -744,22 +738,21 @@
 - **Knowledge Gaps Identified and Resolved:**
   - ✓ What LTC covers: Initially thought LTC was about "eating better, dressing better" as quality upgrades → Corrected to understand it's necessity when CAN'T do ADLs (disabled), not optional luxury
   - ✓ LTC insurance payment calculation: Initially tried to calculate inflation on nursing home cost → Corrected to compare benefit vs cost, insurance pays lower of the two
+- **Final Assessment (Chen Wei Scenario):**
+  - Question 1 (LTC insurance purchase): ✓ CORRECT - Identified Chen Wei should buy LTC insurance at age 60 (optimal timing in sweet spot, $900K assets = perfect candidate)
+  - Question 2 (Special needs planning): ✓ EXCELLENT - Correctly chose Special Needs Trust (Option B) and explained WHY: Direct inheritance would exceed $2,000 asset limit and cause loss of Medicaid benefits
 - **Session Performance:**
   - Comprehension Check 1 (LTC policy features): Good understanding after correction on payment logic
   - Comprehension Check 2 (When to buy): ✓ PERFECT - Identified all three reasons (lower premiums, high cost at 70, health risk/insurability)
   - Comprehension Check 3 (5-year lookback): ✓ EXCELLENT - Correctly explained penalty period formula and consequences
-- **Remaining Work:**
-  - Final comprehensive scenario (Chen Wei case): 2 questions pending
-    - Q1: Should Chen Wei (60, $900K savings, healthy) buy LTC insurance? Why?
-    - Q2: How to leave $200K to disabled daughter (has SSI/Medicaid) - direct, SNT, or ABLE?
-  - Brief discussion/feedback
-  - Mark as fully mastered
+  - Final Assessment: ✓ PERFECT - Both questions answered correctly with strong CFP reasoning
 - **Session Notes:**
   - Session 15 (Jan 12): Introduction only (~5% complete), student requested to stop
   - Session 16 (Jan 14): Excellent progress, covered all main content (~90% complete)
+  - Session 17 (Jan 16): Completed final assessment, F.46 now fully mastered ✓
   - Strong comprehension throughout, especially practical CFP decision-making
   - Outstanding understanding of 5-year lookback concept and penalty calculations
-  - Ready to complete final assessment next session
+  - Perfect integration of LTC insurance timing with special needs estate planning
 
 - **Key Points Understood:**
   - **Replacement Ratio Concept:**
